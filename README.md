@@ -1,15 +1,14 @@
 # Simple Linear Regression
 
 1. Simple Linear Regression is used to find a best fit line.
-(image.png)
+
 
 2. Best fit line basically drawn to minimize error between predicted output and actual output.
 
 3. Line represents : y = mx + b where m is a slope and b is y-intecept.
 
 4. To find the value of m and b . We use formula:
-    (image-1.png)
-  (image-2.png)
+   
 
 5. So, here we applied this mathematical computation and created our own simple linear regression model from scratch in python and we tried to compare it with sklearn.linearRegression
 
