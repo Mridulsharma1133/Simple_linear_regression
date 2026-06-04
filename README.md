@@ -21,7 +21,7 @@ import numpy as np
 data = pd.read_csv("Salary_dataset.csv")
 #input
 x = data.iloc[:,1].values
-#output
+
 y = data.iloc[:,2].values
 
 8. Then, we write our own simple linear class and created our own simple regression model using same mathematical formula.
@@ -67,7 +67,7 @@ m.predict(X_test.reshape(-1,1))
 
 
 
-### Program.
+
 
 
 
